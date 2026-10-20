@@ -7,7 +7,7 @@ can be submitted on its own.
 
 *****IMPORTANT*****
 Team name: jom
-Email address: jiratnimstudent@ubc.ca
+Public showcase copy: submission contact details removed
 *******************
 """
 
